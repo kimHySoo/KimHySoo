@@ -1,26 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Hyeongsu%20Kim&fontSize=45&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=HyoungSoo%20Kim&fontSize=45&fontAlignY=35&animation=fadeIn" />
 
 <div align="center">
 
-### 👋 안녕하세요, 김형수입니다
+### 안녕하세요, 김형수입니다
 
-💻 **Algorithm & Problem Solving Developer**  
-📚 꾸준히 성장하는 개발자를 목표로 합니다
+꾸준히 성장하는 개발자를 목표로 합니다
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-### 🛠 Tools
-
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
----
 
 ### 🏆 Algorithm
 
