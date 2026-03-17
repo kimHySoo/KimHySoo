@@ -7,15 +7,14 @@
 꾸준히 성장하는 개발자를 목표로 합니다
 
 ---
+### 🧠 Main Skills
 
-### Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
 
 ---
-
-
 ### 🏆 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jugury00)](https://solved.ac/jugury00)
