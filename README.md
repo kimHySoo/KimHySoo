@@ -60,8 +60,9 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=KimHySoo&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHySoo&layout=compact&hide_border=true&bg_color=00000000" height="150"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimHySoo&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimHySoo&layout=compact&hide_border=true)
 
 ---
 
