@@ -56,13 +56,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jugury00)](https://solved.ac/jugury00)
 
-[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=jugury00&v=1&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimHySoo&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimHySoo&layout=compact&hide_border=true)
 
 ---
 
